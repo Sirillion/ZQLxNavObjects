@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<xml>
+	<ModInfo>
+		<Name value="ZQLxNavObjects" />
+		<Description value="ZQLxNavObjects is a Quality of Life modlet that disables the new on-screen sprite system introduced in A19." />
+		<Author value="Sirillion" />
+		<Version value="19.0.Release1" />
+		<Website value="" />
+	</ModInfo>
+</xml>
